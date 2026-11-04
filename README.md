@@ -12,6 +12,6 @@ W folderze wybranego ćwiczenia uruchom `python3 Python.py` lub `dotnet run` (.N
 
 ## Użycie GenAI
 
-ChatGPT (Codex) przygotował kod obu programów i ten plik README na podstawie polecenia z Moodle oraz pomógł w weryfikacji działania. Pliki źródłowe zostały wygenerowane przy użyciu tego narzędzia.
+ChatGPT (Codex) przygotował plik README na podstawie zadania z Moodle, a także pomógł sprawdzić pracę. Pliki źródłowe zostały wygenerowane za pomocą tego narzędzia.
 
 Źródło: [ChatGPT (OpenAI)](https://chatgpt.com/), 4 listopada 2026 r.
